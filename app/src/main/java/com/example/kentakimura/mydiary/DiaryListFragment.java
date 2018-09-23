@@ -17,14 +17,7 @@ import io.realm.Realm;
 import io.realm.RealmResults;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link DiaryListFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link DiaryListFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class DiaryListFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;
